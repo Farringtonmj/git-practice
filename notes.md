@@ -17,7 +17,7 @@ When you want to check which step you are on
 
 Commit process
 
-* make saved, tested changes to my code- make sure it works perfectly fo objective before starting
+* make saved, tested changes to my code- make sure it works perfectly for objective before starting
 * Add any changed files to the stage
     git add filename(.rb)
 * commit the staged files
