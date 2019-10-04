@@ -29,3 +29,19 @@ green - staged
 
 to share code
 -------------------
+log on to github
+
+create a new repository (plus sign in top right)
+
+commit files
+
+if first time loading committed files onto repository
+
+in your command line, type git push -u origin master
+
+type username and password
+
+if not first time uploading files to repository
+
+type git push into command line
+type username + password
